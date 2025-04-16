@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Samuel Marnatti 👋
 
 Sou um desenvolvedor full stack com foco em performance, escalabilidade e soluções inteligentes.
 
