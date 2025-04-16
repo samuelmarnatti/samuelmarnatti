@@ -10,7 +10,7 @@ Sou um desenvolvedor full stack com foco em performance, escalabilidade e soluç
 
 ## ⚙️ Sobre mim
 - Atuo como desenvolvedor pleno na Modular Cargas
-- Tenho experiência com sistemas de frete, help desk, CRMs e monitoramento de cargas
+- Tenho experiência com sistemas de frete, help desk, CRMs, sites e sistemas de contabilidade.
 - Estou sempre buscando aprender algo novo — especialmente sobre arquitetura de software e boas práticas
 
 ## 📈 GitHub Stats
